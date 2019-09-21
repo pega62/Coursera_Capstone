@@ -12,3 +12,7 @@ Week 3:  Source Dataset Neighborhoods of Toronto for applied K-means
         
         Parte 3: 03_3AssignmentClusterNeighborhoodsTorontoV2.ipynb
         
+                 mapadata.png (Map with coordinates points)
+                 
+                 mapaclusters.png (Map with clusters points) 
+        
