@@ -16,7 +16,7 @@ Week 3:  Source Dataset Neighborhoods of Toronto for applied K-means
                  
                  mapaclusters.png (Map with clusters points) 
                  
-#    Week 4: Capstone Project - The Battle of Neighborhoods (Week 1)
+##    Week 4: Capstone Project - The Battle of Neighborhoods (Week 1)
     
         01CapstoneProjectBattleNeighborhoods .ipynb 
         
