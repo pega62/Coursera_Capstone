@@ -15,4 +15,12 @@ Week 3:  Source Dataset Neighborhoods of Toronto for applied K-means
                  mapadata.png (Map with coordinates points)
                  
                  mapaclusters.png (Map with clusters points) 
+                 
+    #
+    Week 4: Capstone Project - The Battle of Neighborhoods (Week 1)
+    
+        01CapstoneProjectBattleNeighborhoods .ipynb 
         
+        Colleges_and_Universities.csv
+        
+        mapaNY01.jpg
